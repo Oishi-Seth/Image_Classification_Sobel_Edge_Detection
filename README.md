@@ -10,12 +10,14 @@
 ![image](https://github.com/user-attachments/assets/4301de9c-7503-4eee-9f85-905fe3ea63a0)
 
 4. Open a new notebook and unzip the file using below code:
+
 ![image](https://github.com/user-attachments/assets/797b0fe1-9d64-4dd8-86cd-55326323fd7e)
 
 5. Then open a new terminal in jupyter notebook and run the setup.py file using “python3 setup.py install” command.
 ![image](https://github.com/user-attachments/assets/7717efd6-cf7d-4bf9-b1e5-db442bc7148b)
 
 6. This will install the project package on board and create a directory in the jupyter home area.
+
 ![image](https://github.com/user-attachments/assets/8ff6c31e-8e2f-41d7-9f54-48f6468a175e)
 
 7. Copy the files: QNN_Cifar10_Sobel_Webcam.ipynb, base.bit, base.hwh from this github and paste it in the "bnn" folder that got installed now.
